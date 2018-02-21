@@ -3,6 +3,11 @@ package com.gc.testing;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*
+ * @author Andrew Calabro-Cavin
+ */
+
+
 public class LocatePrimes {
 
 	public static void main(String[] args) {

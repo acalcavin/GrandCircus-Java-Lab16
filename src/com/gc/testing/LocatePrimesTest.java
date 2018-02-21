@@ -77,4 +77,10 @@ class LocatePrimesTest {
 		boolean test = LocatePrimes.checkIfPrime(47);
 		assertTrue(test, "checkIfPrime47");
 	}
+	
+	@Test
+	void testCheckIfPrime881() {
+		boolean test = LocatePrimes.checkIfPrime(881);
+		assertTrue(test, "checkIfPrime881");
+	}
 }
